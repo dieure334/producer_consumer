@@ -1,6 +1,8 @@
 # producer_consumer
 A demonstration of the Producer-Consumer Problem using the pthreads API and semaphores.
 
+----------------------------------------------------------------------------------------
+
 **Platform Used**
 
  - Created in VirtualBox (Linux/Ubuntu LTS 22.04.3 (64-bit))
@@ -14,6 +16,8 @@ A demonstration of the Producer-Consumer Problem using the pthreads API and sema
 
 The program takes 3 command-line arguments: the number of producer threads, the number of consumer threads, and the amount of time (in seconds) that the program will run for. To execute, input the following command in Terminal with the format: **./prog.c x x x** 
 - Example: ./prog.c 2 1 30 (2 producers, 1 consumer, 30 seconds)
+
+----------------------------------------------------------------------------------------
 
 **Credits**
 

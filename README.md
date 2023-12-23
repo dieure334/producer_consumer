@@ -10,7 +10,7 @@ A demonstration of the Producer-Consumer Problem using the pthreads API and sema
 **How to Compile**
 
 - Download the prog.c file
-- Execute the following command in Terminal: **gcc prog.c -Wall -lthread -o prog.c**
+- Compile using the following command in Terminal: **gcc prog.c -Wall -lthread -o prog.c**
 
 **How to Run**
 

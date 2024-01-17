@@ -1,4 +1,4 @@
-# Producer-Consumer Problem
+# Producer-Consumer Solution
 A demonstration of the Producer-Consumer Problem using the pthreads API and semaphores.
 
 ----------------------------------------------------------------------------------------
